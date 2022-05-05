@@ -1,2 +1,2 @@
-# cerivel
-Official Github repository 
+# Cerivel
+TIPS MENULIS CEPAT OLEH CERIVEL DIGITAL KREATIF
